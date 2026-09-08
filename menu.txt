@@ -1,6 +1,6 @@
 MENU
 
-Today's Special: Butter Chicken - ₹150
+Today's Special: Palak Paneer - ₹120
 
 Regular Menu:
 - Veg Sandwich - ₹60
@@ -9,3 +9,4 @@ Regular Menu:
 - Chicken Biryani - ₹200
 - Sizzling Brownie - ₹150
 - Nutella Waffle - ₹120
+- Pasta - ₹100
