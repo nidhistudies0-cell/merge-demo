@@ -1,8 +1,11 @@
 MENU
 
-Today's Special: Butter Chicken - $10
+Today's Special: Butter Chicken - ₹150
 
 Regular Menu:
-- Veg Sandwich - $4
-- Cold Coffee - $3
-- Fruit Bowl - $5
+- Veg Sandwich - ₹60
+- Cold Coffee - ₹100
+- Fruit Bowl - ₹50
+- Chicken Biryani - ₹200
+- Sizzling Brownie - ₹150
+- Nutella Waffle - ₹120
