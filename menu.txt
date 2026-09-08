@@ -7,6 +7,6 @@ Regular Menu:
 - Cold Coffee - ₹100
 - Fruit Bowl - ₹50
 - Chicken Biryani - ₹200
-- Sizzling Brownie - ₹150
 - Nutella Waffle - ₹120
-- Pasta - ₹100
+- Pasta - ₹140
+- Veg Noodles - ₹60
