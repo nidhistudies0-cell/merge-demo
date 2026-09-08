@@ -3,7 +3,7 @@ MENU
 Today's Special: Palak Paneer - ₹120
 
 Regular Menu:
-- Veg Sandwich - ₹70
+- Veg Sandwich - ₹50
 - Cold Coffee - ₹100
 - Fruit Bowl - ₹50
 - Chicken Biryani - ₹200
